@@ -1,0 +1,12 @@
+C:\Users\gerda\Desktop\4Uzduotis\bin\Debug\4Uzduotis.exe.config
+C:\Users\gerda\Desktop\4Uzduotis\bin\Debug\4Uzduotis.exe
+C:\Users\gerda\Desktop\4Uzduotis\bin\Debug\4Uzduotis.pdb
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\4Uzduotis.csproj.AssemblyReference.cache
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\_4Uzduotis.LoginRegisterForm.resources
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\_4Uzduotis.Properties.Resources.resources
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\_4Uzduotis.UserForm.resources
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\4Uzduotis.csproj.GenerateResource.cache
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\4Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\4Uzduotis.exe
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\4Uzduotis.pdb
+C:\Users\gerda\Desktop\4Uzduotis\obj\Debug\_4Uzduotis.PasswordForm.resources
